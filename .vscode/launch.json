@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ineximplem1",
+            "request": "launch",
+            "mainClass": "basics.ineximplem1",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch ineximplem",
+            "request": "launch",
+            "mainClass": "basics.ineximplem",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch ineximplem2",
+            "request": "launch",
+            "mainClass": "basics.ineximplem2",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch mainclass",
+            "request": "launch",
+            "mainClass": "basics.mainclass",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch currentDateTime",
+            "request": "launch",
+            "mainClass": "basics.currentDateTime",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch datetime",
+            "request": "launch",
+            "mainClass": "basics.datetime",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayMarks",
+            "request": "launch",
+            "mainClass": "basics.arrayMarks",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayMultiplication",
+            "request": "launch",
+            "mainClass": "basics.arrayMultiplication",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch adultFinder",
+            "request": "launch",
+            "mainClass": "adultFinder",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayex",
+            "request": "launch",
+            "mainClass": "arrayex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditionalStatements",
+            "request": "launch",
+            "mainClass": "basics.conditionalStatements",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch datatypes",
+            "request": "launch",
+            "mainClass": "basics.datatypes",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch evenOdd",
+            "request": "launch",
+            "mainClass": "basics.evenOdd",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "basics.first",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch operators",
+            "request": "launch",
+            "mainClass": "basics.operators",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch caseexmpl",
+            "request": "launch",
+            "mainClass": "caseexmpl",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalex",
+            "request": "launch",
+            "mainClass": "finalex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch meow",
+            "request": "launch",
+            "mainClass": "meow",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiplicationTable",
+            "request": "launch",
+            "mainClass": "multiplicationTable",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiplicationTable2",
+            "request": "launch",
+            "mainClass": "multiplicationTable2",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringex",
+            "request": "launch",
+            "mainClass": "stringex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch userInput",
+            "request": "launch",
+            "mainClass": "userInput",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch weightcase",
+            "request": "launch",
+            "mainClass": "weightcase",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch zensar",
+            "request": "launch",
+            "mainClass": "zensar",
+            "projectName": "Visual Studio 2022_b529d224"
+        }
+    ]
+}
