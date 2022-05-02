@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch lambda",
+            "request": "launch",
+            "mainClass": "basics.core_java.lambda",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch listex",
+            "request": "launch",
+            "mainClass": "basics.core_java.listex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
             "name": "Launch ineximplem1",
             "request": "launch",
             "mainClass": "basics.ineximplem1",
