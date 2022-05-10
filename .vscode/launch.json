@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch OddLength",
+            "request": "launch",
+            "mainClass": "OddLength",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch streamex",
+            "request": "launch",
+            "mainClass": "basics.core_java.streamex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch setex",
+            "request": "launch",
+            "mainClass": "basics.core_java.setex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch mapex",
+            "request": "launch",
+            "mainClass": "basics.core_java.mapex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch medicalShop2",
+            "request": "launch",
+            "mainClass": "basics.core_java.medicalShop2",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch medicalShop",
+            "request": "launch",
+            "mainClass": "basics.core_java.medicalShop",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch qex",
+            "request": "launch",
+            "mainClass": "basics.core_java.qex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackex",
+            "request": "launch",
+            "mainClass": "basics.core_java.stackex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
             "name": "Launch lambda",
             "request": "launch",
             "mainClass": "basics.core_java.lambda",
