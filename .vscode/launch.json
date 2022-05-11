@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sortString",
+            "request": "launch",
+            "mainClass": "Assignments.sortString",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseString",
+            "request": "launch",
+            "mainClass": "Assignments.reverseString",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "Assignments.factorial",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumbers",
+            "request": "launch",
+            "mainClass": "Assignments.PrimeNumbers",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch M",
+            "request": "launch",
+            "mainClass": "Assignments.M",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch N",
+            "request": "launch",
+            "mainClass": "Assignments.N",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurrentDateTime",
+            "request": "launch",
+            "mainClass": "Assignments.CurrentDateTime",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch setex",
+            "request": "launch",
+            "mainClass": "core_java.setex",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurrentDateTime",
+            "request": "launch",
+            "mainClass": "CurrentDateTime",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch lambda",
+            "request": "launch",
+            "mainClass": "core_java.lambda",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
+            "name": "Launch currentDateTime",
+            "request": "launch",
+            "mainClass": "currentDateTime",
+            "projectName": "Visual Studio 2022_b529d224"
+        },
+        {
+            "type": "java",
             "name": "Launch OddLength",
             "request": "launch",
             "mainClass": "OddLength",
